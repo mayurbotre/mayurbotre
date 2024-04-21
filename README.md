@@ -6,9 +6,7 @@
             Machine Learning, 
             Artificial Intelligence, 
             Deep Learning, 
-            Neural Network, 
-            Internet Of Things, 
-            Flutter Development, 
+            Neural Network,  
             MERN Stack....
 - 📫 reach me through my LinkedIn 
       https://www.linkedin.com/in/mayur-botre-3683b31a3/
